@@ -1,0 +1,17 @@
+/*Aplicacion de la propiedad border y sus variantes*/
+h1{/*con este ejemplo de border podemos crear varios bordes*/
+    border-top: 2px dashed blue;/*simplificado*/
+    border-bottom: 5px solid orange;
+    border-right: 3px dotted yellow;
+    border-left: 4px solid blueviolet;
+}
+p{
+    color:red;/*border con sus variantes*/
+    border-style: dashed;
+    border-color: aquamarine;
+    border-width: 5px;
+}
+h2{
+    color: blue;/*border simplificado*/
+    border: 4px solid red;
+}

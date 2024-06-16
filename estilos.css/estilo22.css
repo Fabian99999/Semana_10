@@ -1,0 +1,115 @@
+.caja1 {
+    background-color: aqua;
+    height: 20vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 10px solid red;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.body{
+    font-family: sans-serif;
+}
+.caja2 {
+    background-color: aqua;
+    height: 20vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 10px solid blueviolet;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.caja3 {
+    background-color: aqua;
+    height: 20vh;
+    margin: 5% 15% ;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.caja4 {
+    background-color: aqua;
+    height: 20vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px;
+    border-radius: 30px;
+}
+.caja5 {
+    background-color: aqua;
+    height: 20vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.vertical {
+    vertical-align: super;
+    color: red;
+}
+.caja6 {
+    background-color: aqua;
+    height: 20vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.sangria {
+    text-indent: 10%;
+}
+.caja7, .caja8 {
+    background-color: aqua;
+    
+    margin: 5%;
+    width: 40%;
+    padding: 20px;
+    border-radius: 30px;
+}
+.wrap {
+    text-wrap: pretty;
+}
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+}
+.caja9 {
+    background-color: aqua;
+    height: 30vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 30px;
+}
+.stroke {
+    font-size: 4em;
+    font-family: sans-serif;
+    color: white;
+    -webkit-text-stroke: 2px black;  
+    padding: 5px;
+    margin-top: 15px;
+}
